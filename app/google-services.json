@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545769932812",
+    "project_id": "ecommerceapp-b4cac",
+    "storage_bucket": "ecommerceapp-b4cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545769932812:android:835dd026c0d8bebc5ec629",
+        "android_client_info": {
+          "package_name": "com.barisgungorr.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6FZnTxFFA8zlu1HoxRhwoPhE_F3DZOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
